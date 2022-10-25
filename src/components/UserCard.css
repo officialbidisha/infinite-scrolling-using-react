@@ -1,0 +1,53 @@
+.p-4 {
+    padding: 4px;
+}
+.border-gray-500 {
+    border: 3px solid gray;
+    margin: 10px 10px;
+}
+.rounded {
+    border-radius: 10px;
+}
+.flex {
+    display: flex;
+}
+.items-center {
+    align-items: center;
+}
+.ml-3 {
+    margin-left: 3px;
+}
+.w-16 {
+    width: 16px;
+}
+.h-16 {
+    height: 16px;
+}
+.border-green-600 {
+    border-color: green;
+    border-width: 600px;
+}
+.font-bold {
+    font-weight: bold;
+}
+.break-all {
+    word-break: break-all;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+.imgs {
+    border: 2px solid green;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
